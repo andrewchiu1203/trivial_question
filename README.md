@@ -12,5 +12,5 @@ The backend used here is Django and the frontend is React. They communicate thro
 
 ### Backend Dependancies
 - django
-- django restframe work
-- django serializer
+- djangorestframework
+- django-cors-headers
